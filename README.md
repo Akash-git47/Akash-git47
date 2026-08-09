@@ -19,7 +19,7 @@
 
 ## `aksh@github:~$ whoami`
 
-I am a developer from **Bangalore** who enjoys turning ideas into useful, thoughtful software. My work sits at the intersection of **AI, web applications, automation, and developer tools**.
+I am a developer who enjoys turning ideas into useful, thoughtful software. My work sits at the intersection of **AI, web applications, automation, and developer tools**.
 
 ```text
 focus     = AI + full-stack development
