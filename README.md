@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Akash+%F0%9F%91%8B;I+build%2C+create+and+automate;AI+%7C+Web+Apps+%7C+Developer+Tools" alt="Animated introduction" />
-
+<img src="https://raw.githubusercontent.com/Akash-git47/Akash-git47/main/matrix-cat.gif.gif" width="300" alt="matrix animation" />
 <p>
   <a href="https://github.com/Akash-git47"><img src="https://img.shields.io/badge/GitHub-Akash--git47-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/s-akash-58851835a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
