@@ -9,7 +9,7 @@
   <a href="mailto:akashuser47000@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc2MW1ocGFqd2t5ejI4c2lqYXN1Z295ZzV6d242ZWp5YnRxYXM2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" alt="Animated developer workspace" />
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="300" alt="Animated developer workspace" />
 
 </div>
 
