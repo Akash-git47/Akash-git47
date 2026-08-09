@@ -45,8 +45,7 @@ status    = always experimenting
 <details>
 <summary><b>Open my quick profile</b></summary>
 <br />
-
-Based in Bangalore, India  
+ 
 Interested in AI and intelligent tools  
 Building with TypeScript, Python and C  
 Building profiles that feel like experiences  
